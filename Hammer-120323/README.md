@@ -16,8 +16,8 @@ Corner of Wilshire & Westwood
 10899 Wilshire Blvd
 
 http://hammer.ucla.edu
-facebook.com/HammerStudentAssociation
-@hsaucla
+http://facebook.com/HammerStudentAssociation
+http://twitter.com/hsaucla
 
 As a graphic design student at Otic College of Art and Design, Rebecca was introduced to letterpress printing and small edition books. Her experience has continued to inspire and inform the direction she has taken her career as an artist and designer. Since then she has served as adjunct faculty at Otis College of Art and Design and established a small private press, Pie in the Sky Press in Ventura County, California.
 For more information about Rebecca's work, please visit: http://www.pieintheskypress.com/
