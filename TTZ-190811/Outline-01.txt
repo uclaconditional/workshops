@@ -1,0 +1,75 @@
+//
+
+Processing: https://processing.org/download/
+
+All code files: https://we.tl/t-01mnxf6Yev
+
+//
+
+1. Processing Basics
+3. Form + Code 
+4. Zine Assembly
+
+//
+
+PROCESSING BASICS
+
+- Play / Stop
+  . size(width, height)
+- Sketchbook
+- Reference
+
+//
+
+FORM + CODE
+
+1 - Line
+    . Statement
+      - background(gray)
+      - line(x, y, width, height)
+    . PDF Export Library
+    . Drawing properties
+      - background(r, g, b)
+      - stroke(gray), stroke(r, g, b)
+      - strokeWeight(weight)
+      - strokeCap(cap)
+
+2 - Three lines
+    . variable
+    . data type
+
+3 - Many lines
+    . loop, repeat one or more lines of code
+
+4 - Matrix of lines
+    . embedded loop
+
+5 - Random lines
+    . random()
+      - float data type
+    . random() within a loop
+
+6 - Draw lines (setup, draw, mouseX, mouseY)
+    . setup() and draw()
+    . mouseX, mouseY, pmouseX, pmouseY
+    . keyPressed() event
+
+Cover - Typography
+    . PFont, textFont(), createFont()
+    . text()
+    . textAlign(), textLeading()
+    . Custom fonts
+
+//
+
+ZINE ASSEMBLY
+
+- Template
+
+//
+
+BONUS EXAMPLE
+
+- Random Book
+
+//
