@@ -2,19 +2,21 @@
 
 Processing: https://processing.org/download/
 
-All code files: https://we.tl/t-01mnxf6Yev
+All code files: https://github.com/uclaconditional/workshops/tree/master/TTZ-190811
+
+Watch, code, etc.
 
 //
 
-1. Processing Basics
-3. Form + Code 
-4. Zine Assembly
+- Processing Basics
+- Form + Code 
+- Zine Assembly
 
 //
 
 PROCESSING BASICS
 
-- Play / Stop
+- Play
   . size(width, height)
 - Sketchbook
 - Reference
@@ -26,7 +28,7 @@ FORM + CODE
 1 - Line
     . Statement
       - background(gray)
-      - line(x, y, width, height)
+      - line(x1, y1, x2, y2)
     . PDF Export Library
     . Drawing properties
       - background(r, g, b)
